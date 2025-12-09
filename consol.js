@@ -1,0 +1,16 @@
+console.log("hello world")
+console.dir(document)
+console.log(window)
+console.dir(window)
+console.log(new(Date))
+console.log(window.document)
+console.log("print")
+console.warn("warning")
+console.error("error")
+console.table("name", "ramu")
+console.table([1,2,3,4,5,6,7,8,9])
+console.table({"name":"ramu","age":23, "city":"hyd"})
+
+var n={"name":"ramu","age":23, "city":"hyd"}
+console.table(n)
+console.log(n)

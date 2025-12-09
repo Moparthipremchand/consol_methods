@@ -1,0 +1,33 @@
+h1,h3{
+    color: rgb(104, 104, 240);
+    font-size: 4rem;
+    padding-bottom: 20px;
+}
+
+h4{
+    color: greenyellow;
+    font-size: 3rem;
+}
+h4>p{
+    color: green;
+    padding: 0px;
+    margin: 0px;
+}
+.para{
+    font-size: 2rem;
+    color: gray;
+}
+img{
+    height: 200px;
+}
+
+.step>h4,.step>img{
+    padding: 0px;
+    margin: 0px;
+}
+.tap{
+    background-color: lightgray;
+}
+.tap1{
+    background-color: #F4FDFF;
+}
